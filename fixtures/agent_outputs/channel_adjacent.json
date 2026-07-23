@@ -1,0 +1,27 @@
+{
+  "channel_id": "adjacent",
+  "agent_scope": "Adjacent customer-experience platforms with plausible product extension logic.",
+  "candidates": [
+    {
+      "buyer_company_name": "Aster Retail Group",
+      "buyer_website": "https://aster-retail.example",
+      "buyer_hq": "Boston, MA",
+      "buyer_persona": "commerce platform",
+      "strategic_fit_rationale": "Aster could connect the target's fictional mobile-conversion layer to its storefront and analytics products.",
+      "evidence": [
+        "Synthetic evidence: Aster provides storefront software.",
+        "Synthetic evidence: Aster also provides merchant analytics."
+      ]
+    },
+    {
+      "buyer_company_name": "Cedar Experience Labs",
+      "buyer_website": "https://cedar-experience.example",
+      "buyer_hq": "Austin, TX",
+      "buyer_persona": "customer-experience platform",
+      "strategic_fit_rationale": "Mobile commerce would be an adjacent expansion from Cedar's fictional customer-experience tooling.",
+      "evidence": [
+        "Synthetic evidence: Cedar develops customer-experience workflow software."
+      ]
+    }
+  ]
+}

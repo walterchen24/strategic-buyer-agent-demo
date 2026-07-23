@@ -1,0 +1,51 @@
+{
+  "buyers": [
+    {
+      "agent_channels": [
+        "adjacent",
+        "ecosystem"
+      ],
+      "buyer_company_name": "Aster Retail Group",
+      "buyer_hq": "Boston, MA",
+      "buyer_persona": "commerce platform",
+      "buyer_website": "https://aster-retail.example",
+      "evidence": [
+        "Synthetic evidence: Aster also provides merchant analytics.",
+        "Synthetic evidence: Aster provides storefront and merchant analytics software.",
+        "Synthetic evidence: Aster provides storefront software."
+      ],
+      "strategic_fit_rationale": "Aster could connect the target's fictional mobile-conversion layer to its storefront and analytics products."
+    },
+    {
+      "agent_channels": [
+        "ecosystem"
+      ],
+      "buyer_company_name": "Beacon Commerce Holdings",
+      "buyer_hq": "New York, NY",
+      "buyer_persona": "commerce software acquirer",
+      "buyer_website": "https://beacon-commerce.example",
+      "evidence": [
+        "Synthetic evidence: Beacon owns several independent commerce software products."
+      ],
+      "strategic_fit_rationale": "The target would add a mobile product layer to Beacon's fictional commerce portfolio."
+    },
+    {
+      "agent_channels": [
+        "adjacent"
+      ],
+      "buyer_company_name": "Cedar Experience Labs",
+      "buyer_hq": "Austin, TX",
+      "buyer_persona": "customer-experience platform",
+      "buyer_website": "https://cedar-experience.example",
+      "evidence": [
+        "Synthetic evidence: Cedar develops customer-experience workflow software."
+      ],
+      "strategic_fit_rationale": "Mobile commerce would be an adjacent expansion from Cedar's fictional customer-experience tooling."
+    }
+  ],
+  "merge_metadata": {
+    "deduplicated_candidate_count": 3,
+    "duplicates_removed": 1,
+    "raw_candidate_count": 4
+  }
+}

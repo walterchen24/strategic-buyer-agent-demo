@@ -1,0 +1,12 @@
+{
+  "criteria_weights": {
+    "strategic_fit": 0.5,
+    "track_record": 0.2,
+    "deployment_urgency": 0.2,
+    "geographic_proximity": 0.1
+  },
+  "tier_thresholds": {
+    "tier_1_min": 7.5,
+    "tier_2_min": 6.0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": "1.0",
+  "stages": [
+    {
+      "id": "intake",
+      "owner": "deterministic",
+      "output": "intake.json"
+    },
+    {
+      "id": "research",
+      "owner": "bounded_agents",
+      "agent_specs": [
+        "agents/ecosystem_research.md",
+        "agents/adjacent_research.md"
+      ],
+      "output": "sourcing_buyers.json"
+    },
+    {
+      "id": "scoring",
+      "owner": "agent_judgment_plus_deterministic_math",
+      "agent_spec": "agents/scoring_judgment.md",
+      "output": "scored_buyers.json"
+    },
+    {
+      "id": "gate",
+      "owner": "human",
+      "output": "gate_review.json",
+      "hard_stop": true
+    },
+    {
+      "id": "deliverable",
+      "owner": "deterministic",
+      "output": [
+        "deliverable.json",
+        "deliverable.csv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scores": [
+    {
+      "buyer_company_name": "Aster Retail Group",
+      "strategic_fit": 9,
+      "track_record": 8,
+      "deployment_urgency": 8,
+      "geographic_proximity": 7,
+      "note": "Direct product adjacency with multiple fictional integration paths."
+    },
+    {
+      "buyer_company_name": "Beacon Commerce Holdings",
+      "strategic_fit": 8,
+      "track_record": 6,
+      "deployment_urgency": 7,
+      "geographic_proximity": 8,
+      "note": "Strong portfolio logic with less evidence of category-specific execution."
+    },
+    {
+      "buyer_company_name": "Cedar Experience Labs",
+      "strategic_fit": 6,
+      "track_record": 5,
+      "deployment_urgency": 4,
+      "geographic_proximity": 6,
+      "note": "Plausible adjacency, but the expansion logic is less direct."
+    }
+  ]
+}

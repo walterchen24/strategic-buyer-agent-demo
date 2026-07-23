@@ -1,0 +1,18 @@
+{
+  "artifacts": [
+    "intake.json",
+    "sourcing_buyers.json",
+    "scored_buyers.json",
+    "gate_review.json",
+    "deliverable.json",
+    "deliverable.csv"
+  ],
+  "stages": {
+    "deliverable": "complete",
+    "gate": "approved",
+    "intake": "complete",
+    "research": "complete",
+    "scoring": "complete"
+  },
+  "status": "complete"
+}
