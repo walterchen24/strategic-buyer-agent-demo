@@ -1,0 +1,25 @@
+{
+  "approved_by": "demo_operator",
+  "candidate_count": 3,
+  "candidates": [
+    {
+      "buyer_company_name": "Aster Retail Group",
+      "buyer_tier": "Tier 1",
+      "composite_score": "8.4",
+      "score_note": "Direct product adjacency with multiple fictional integration paths."
+    },
+    {
+      "buyer_company_name": "Beacon Commerce Holdings",
+      "buyer_tier": "Tier 2",
+      "composite_score": "7.4",
+      "score_note": "Strong portfolio logic with less evidence of category-specific execution."
+    },
+    {
+      "buyer_company_name": "Cedar Experience Labs",
+      "buyer_tier": "Tier 3",
+      "composite_score": "5.4",
+      "score_note": "Plausible adjacency, but the expansion logic is less direct."
+    }
+  ],
+  "decision": "approved"
+}

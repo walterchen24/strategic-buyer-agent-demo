@@ -1,0 +1,23 @@
+{
+  "buyers": [
+    {
+      "buyer_company_name": "Aster Retail Group",
+      "buyer_hq": "Boston, MA",
+      "buyer_persona": "commerce platform",
+      "buyer_website": "https://aster-retail.example",
+      "fit_summary": "Aster could connect the target's fictional mobile-conversion layer to its storefront and analytics products.",
+      "source_count": 3
+    },
+    {
+      "buyer_company_name": "Beacon Commerce Holdings",
+      "buyer_hq": "New York, NY",
+      "buyer_persona": "commerce software acquirer",
+      "buyer_website": "https://beacon-commerce.example",
+      "fit_summary": "The target would add a mobile product layer to Beacon's fictional commerce portfolio.",
+      "source_count": 1
+    }
+  ],
+  "metadata": {
+    "synthetic_demo": true
+  }
+}

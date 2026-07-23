@@ -1,0 +1,5 @@
+[project]
+name = "strategic-buyer-agent-demo"
+version = "1.0.0"
+description = "Sanitized human-governed multi-agent research pipeline demo"
+requires-python = ">=3.11"

@@ -1,0 +1,14 @@
+{
+  "campaign_id": "synthetic-commerce-demo",
+  "business": {
+    "name": "Sample Cart Studio",
+    "industry": "mobile commerce enablement",
+    "region": "New York, NY",
+    "summary": "Fictional software that helps independent brands improve mobile conversion."
+  },
+  "constraints": {
+    "fictional_data_only": true,
+    "contact_enrichment_allowed": false,
+    "outreach_allowed": false
+  }
+}

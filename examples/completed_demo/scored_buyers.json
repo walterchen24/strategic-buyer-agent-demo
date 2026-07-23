@@ -1,0 +1,86 @@
+{
+  "scored_buyers": [
+    {
+      "agent_channels": [
+        "adjacent",
+        "ecosystem"
+      ],
+      "buyer_company_name": "Aster Retail Group",
+      "buyer_hq": "Boston, MA",
+      "buyer_persona": "commerce platform",
+      "buyer_tier": "Tier 1",
+      "buyer_website": "https://aster-retail.example",
+      "composite_score": "8.4",
+      "criterion_scores": {
+        "deployment_urgency": 8,
+        "geographic_proximity": 7,
+        "strategic_fit": 9,
+        "track_record": 8
+      },
+      "evidence": [
+        "Synthetic evidence: Aster also provides merchant analytics.",
+        "Synthetic evidence: Aster provides storefront and merchant analytics software.",
+        "Synthetic evidence: Aster provides storefront software."
+      ],
+      "score_note": "Direct product adjacency with multiple fictional integration paths.",
+      "strategic_fit_rationale": "Aster could connect the target's fictional mobile-conversion layer to its storefront and analytics products."
+    },
+    {
+      "agent_channels": [
+        "ecosystem"
+      ],
+      "buyer_company_name": "Beacon Commerce Holdings",
+      "buyer_hq": "New York, NY",
+      "buyer_persona": "commerce software acquirer",
+      "buyer_tier": "Tier 2",
+      "buyer_website": "https://beacon-commerce.example",
+      "composite_score": "7.4",
+      "criterion_scores": {
+        "deployment_urgency": 7,
+        "geographic_proximity": 8,
+        "strategic_fit": 8,
+        "track_record": 6
+      },
+      "evidence": [
+        "Synthetic evidence: Beacon owns several independent commerce software products."
+      ],
+      "score_note": "Strong portfolio logic with less evidence of category-specific execution.",
+      "strategic_fit_rationale": "The target would add a mobile product layer to Beacon's fictional commerce portfolio."
+    },
+    {
+      "agent_channels": [
+        "adjacent"
+      ],
+      "buyer_company_name": "Cedar Experience Labs",
+      "buyer_hq": "Austin, TX",
+      "buyer_persona": "customer-experience platform",
+      "buyer_tier": "Tier 3",
+      "buyer_website": "https://cedar-experience.example",
+      "composite_score": "5.4",
+      "criterion_scores": {
+        "deployment_urgency": 4,
+        "geographic_proximity": 6,
+        "strategic_fit": 6,
+        "track_record": 5
+      },
+      "evidence": [
+        "Synthetic evidence: Cedar develops customer-experience workflow software."
+      ],
+      "score_note": "Plausible adjacency, but the expansion logic is less direct.",
+      "strategic_fit_rationale": "Mobile commerce would be an adjacent expansion from Cedar's fictional customer-experience tooling."
+    }
+  ],
+  "scoring_metadata": {
+    "arithmetic": "decimal half-up",
+    "criteria_weights": {
+      "deployment_urgency": 0.2,
+      "geographic_proximity": 0.1,
+      "strategic_fit": 0.5,
+      "track_record": 0.2
+    },
+    "tier_thresholds": {
+      "tier_1_min": 7.5,
+      "tier_2_min": 6.0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "channel_id": "ecosystem",
+  "agent_scope": "Commerce platforms with a direct mobile-conversion adjacency.",
+  "candidates": [
+    {
+      "buyer_company_name": "Aster Retail Group",
+      "buyer_website": "https://aster-retail.example",
+      "buyer_hq": "Boston, MA",
+      "buyer_persona": "commerce platform",
+      "strategic_fit_rationale": "A mobile-conversion capability would extend Aster's fictional merchant software suite.",
+      "evidence": [
+        "Synthetic evidence: Aster provides storefront and merchant analytics software."
+      ]
+    },
+    {
+      "buyer_company_name": "Beacon Commerce Holdings",
+      "buyer_website": "https://beacon-commerce.example",
+      "buyer_hq": "New York, NY",
+      "buyer_persona": "commerce software acquirer",
+      "strategic_fit_rationale": "The target would add a mobile product layer to Beacon's fictional commerce portfolio.",
+      "evidence": [
+        "Synthetic evidence: Beacon owns several independent commerce software products."
+      ]
+    }
+  ]
+}
